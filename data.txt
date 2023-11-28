@@ -1,0 +1,234 @@
+Algorithm Name: RQuicksortFirstElement
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 10000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.4 ms
+
+Input Size: 100000
+Lowest Time: 31.0 ms
+Highest Time: 32.0 ms
+Average Time: 31.7 ms
+
+Input Size: 1000000
+Lowest Time: 2894.0 ms
+Highest Time: 3088.0 ms
+Average Time: 2954.3 ms
+
+Algorithm Name: RQuicksortRandom
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 10000
+Lowest Time: 1.0 ms
+Highest Time: 1.0 ms
+Average Time: 1.0 ms
+
+Input Size: 100000
+Lowest Time: 32.0 ms
+Highest Time: 35.0 ms
+Average Time: 33.1 ms
+
+Input Size: 1000000
+Lowest Time: 2856.0 ms
+Highest Time: 3126.0 ms
+Average Time: 2972.9 ms
+
+Algorithm Name: RQuicksortMedian
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.1 ms
+
+Input Size: 10000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.5 ms
+
+Input Size: 100000
+Lowest Time: 30.0 ms
+Highest Time: 32.0 ms
+Average Time: 30.9 ms
+
+Input Size: 1000000
+Lowest Time: 2823.0 ms
+Highest Time: 3046.0 ms
+Average Time: 2868.4 ms
+
+Algorithm Name: IQuicksortFirstElement
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 10000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.5 ms
+
+Input Size: 100000
+Lowest Time: 27.0 ms
+Highest Time: 29.0 ms
+Average Time: 27.5 ms
+
+Input Size: 1000000
+Lowest Time: 2446.0 ms
+Highest Time: 2580.0 ms
+Average Time: 2479.2 ms
+
+Algorithm Name: IQuicksortRandom
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.1 ms
+
+Input Size: 10000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.8 ms
+
+Input Size: 100000
+Lowest Time: 29.0 ms
+Highest Time: 30.0 ms
+Average Time: 29.1 ms
+
+Input Size: 1000000
+Lowest Time: 2460.0 ms
+Highest Time: 2718.0 ms
+Average Time: 2511.2 ms
+
+Algorithm Name: IQuicksortMedian
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 10000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.6 ms
+
+Input Size: 100000
+Lowest Time: 27.0 ms
+Highest Time: 28.0 ms
+Average Time: 27.2 ms
+
+Input Size: 1000000
+Lowest Time: 2444.0 ms
+Highest Time: 2634.0 ms
+Average Time: 2477.4 ms
+
+Algorithm Name: RinsertionSort
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.1 ms
+
+Input Size: 10000
+Lowest Time: 8.0 ms
+Highest Time: 9.0 ms
+Average Time: 8.2 ms
+
+Input Size: 100000
+Lowest Time: 947.0 ms
+Highest Time: 949.0 ms
+Average Time: 948.4 ms
+
+Input Size: 1000000
+Lowest Time: 97801.0 ms
+Highest Time: 106102.0 ms
+Average Time: 99750.1 ms
+
+Algorithm Name: IinsertionSort
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 1.0 ms
+Average Time: 0.2 ms
+
+Input Size: 10000
+Lowest Time: 7.0 ms
+Highest Time: 9.0 ms
+Average Time: 8.0 ms
+
+Input Size: 100000
+Lowest Time: 945.0 ms
+Highest Time: 960.0 ms
+Average Time: 948.2 ms
+
+Input Size: 1000000
+Lowest Time: 97633.0 ms
+Highest Time: 103126.0 ms
+Average Time: 99131.5 ms
+
+Algorithm Name: BinarySearch
+Input Size: 100
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 10000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 100000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+
+Input Size: 1000000
+Lowest Time: 0.0 ms
+Highest Time: 0.0 ms
+Average Time: 0.0 ms
+

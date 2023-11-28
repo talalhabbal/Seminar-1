@@ -1,0 +1,1 @@
+g++ -Wall -Wl,--stack -Wl,1000000000 -O3 -o algorithm.exe InsertionSort.c main.c Quicksort.c BinarySearch.c
